@@ -16,6 +16,8 @@ Identifying establishments with certain hygiene scores.
 Finding top-rated establishments near a specific location.
 Aggregating data on hygiene ratings by location to identify trends.
 Output results in Pandas DataFrames for analysis and visualization.
+
+
 Technologies Used
 
 MongoDB: Database setup and query execution.
